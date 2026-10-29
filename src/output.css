@@ -311,8 +311,8 @@
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
   }
-  .mb-12 {
-    margin-bottom: calc(var(--spacing) * 12);
+  .mb-8 {
+    margin-bottom: calc(var(--spacing) * 8);
   }
   .ml-2 {
     margin-left: calc(var(--spacing) * 2);
@@ -539,9 +539,6 @@
   }
   .bg-indigo-500 {
     background-color: var(--color-indigo-500);
-  }
-  .bg-\[url\(\'\.\/public\\background\.png\'\)\] {
-    background-image: url('./public\background.png');
   }
   .\[mask-image\:linear-gradient\(to_right\,transparent\,\#000_15\%\,\#000_85\%\,transparent\)\] {
     mask-image: linear-gradient(to right,transparent,#000 15%,#000 85%,transparent);
